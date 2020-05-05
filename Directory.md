@@ -8,3 +8,6 @@
 - helm upgrade
 - helm ls
 - etcd intro
+- StringBuffer
+- IDEA & play
+- MySQL index
