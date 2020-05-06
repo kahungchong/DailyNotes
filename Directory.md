@@ -11,3 +11,10 @@
 - StringBuffer
 - IDEA & play
 - MySQL index
+
+### 20200506
+
+- HashMap
+- Zookeeper
+- Array to list
+- Java short hand
