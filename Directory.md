@@ -18,3 +18,9 @@
 - Zookeeper
 - Array to list
 - Java short hand
+
+### 20200507
+
+- kmp
+- 图灵完备 brainfuck
+- tcp
