@@ -29,3 +29,9 @@
 
 - MultiMap
 - Guice
+
+### 20200919
+
+- ElasticSearch
+- Linux 后台
+- 后台dump mysql
