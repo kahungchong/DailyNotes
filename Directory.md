@@ -35,3 +35,15 @@
 - ElasticSearch
 - Linux 后台
 - 后台dump mysql
+
+### 20200923
+
+- ElasticSearch bucket 
+
+### 20201023
+
+- sbt run with jvm size
+
+### 20201221
+
+- ES and kibana install
